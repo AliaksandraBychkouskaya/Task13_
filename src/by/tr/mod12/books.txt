@@ -1,0 +1,3 @@
+Harper Lee,To Kill a Mockingbird,1960
+George Orwell,1984,1984
+J.K. Rowling,Harry Potter and the Philosopher’s Stone,1990
