@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Scanner;
 
-
+// задание зачтено
 public class LibraryTesting {
     public static void main(String[] args) {
         Library lib = new Library();
